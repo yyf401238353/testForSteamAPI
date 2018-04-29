@@ -1,0 +1,10 @@
+﻿IPlayerService Interface:获取用户信息 
+ISteamUserAuth Interface: 用户登录(机器人)
+ISteamUser Interface:获取用户信息
+ISteamUserStats:获取用户信息
+用户验证与所有权
+
+我们是否需要后台
+what I need to do
+第三方登录 获取 id 
+然后得到游玩内容 存入数据库
